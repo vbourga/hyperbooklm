@@ -21,4 +21,4 @@ jobs:
           context: .
           push: true
           # REPLACE 'vbourga' with your actual DOCKER HUB username if it is different
-          tags: Vbourga/hyperbook-custom:latest
+          tags: vbourga/hyperbook-custom:latest
